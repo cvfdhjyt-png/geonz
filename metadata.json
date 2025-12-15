@@ -1,0 +1,5 @@
+{
+  "name": "AutoRemix Studio",
+  "description": "专业的 AI 自动化视频生产仪表盘，具有工作流可视化、基于 Gemini 的脚本二创和 EDL 生成功能。",
+  "requestFramePermissions": []
+}
